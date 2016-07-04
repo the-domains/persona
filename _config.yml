@@ -1,7 +1,7 @@
 name: persona
 favicon: null
 layout_spectrum: 0.15276
-typography_spectrum: 0.7299968781881034
+typography_spectrum: 0.37562
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#020202'
+    - '#525252'
+    - '#8f8f8f'
+    - '#c5c5c5'
+    - '#f9f9f9'
   brandStrength: 0
   lightness: 0.125
   saturation: 0.5
