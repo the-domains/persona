@@ -2,6 +2,7 @@ name: persona
 favicon: null
 layout_spectrum: 0.49833
 typography_spectrum: 0.37562
+title: test
 cta:
   domain: null
   bucket: null
