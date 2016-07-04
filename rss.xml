@@ -4,14 +4,14 @@
         <description><![CDATA[persona]]></description>
         <link>https://thegrid.ai/persona/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 01:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 01:22:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/persona/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e24044-3529-47e6-8f0b-65391749468c.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e24044-3529-47e6-8f0b-65391749468c.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/persona/0f4fecdd-2620-4ede-b45b-7a502a65d90f/index.html</link>
             <guid isPermaLink="false">0f4fecdd-2620-4ede-b45b-7a502a65d90f</guid>
-            <pubDate>Mon, 04 Jul 2016 01:17:11 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2016 01:22:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
